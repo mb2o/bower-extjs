@@ -1,4 +1,7 @@
 bower-extjs
 ===========
 
-ExtJS distribution package for Bower 
+Simple ExtJS distribution package for Bower.
+
+Includes:
+-ExtJs 4.2
