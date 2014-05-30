@@ -6,7 +6,7 @@
     "mb2o <mboomaars@gmail.com>"
   ],
   "description": "Simple ExtJS distribution package for Bower",
-  "main": "index.html",
+  "main": "ext-all-dev.js",
   "keywords": [
     "extjs",
     "javascript",
